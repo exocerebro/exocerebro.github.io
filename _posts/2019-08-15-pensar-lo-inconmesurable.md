@@ -8,6 +8,8 @@ permalink: /:title.html/
 author: Alberto R. León
 ---
 
+![imagen de Jody Hewgill](/assets/images/sagan.jpg)
+
 Pensar nuestra vida en relación con el universo puede parecernos inefable. Ya sea por los problemas que tenemos o por lo relativa que puede llegar a ser nuestra existencia y los hechos que la circundan, no reparamos en lo diminuta que a escala es nuestra presencia, tanto como individuos y como especie. Quizá por nuestras preocupaciones inmediatas, o por la incapacidad inherente que la humanidad suele tener a no ver más allá de su nariz, nos es muy complejo hacer asequible al entendimiento la posición que tenemos respecto al universo y su historia.
 
 El lenguaje, en sus múltiples dimensiones, es capaz expresar lo que a primera vista parece imposible nominar. ¿Y es que cómo nosotros, las personas comunes, podemos comprender la historia del universo, desde ese hecho tan abstracto que es el *Big*-*bang*, hasta la relativamente reciente caída de Constantinopla?
