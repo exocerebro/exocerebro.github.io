@@ -33,7 +33,7 @@ Para Mircea Eliade (1991, p. 7), un mito "no habla de lo que ha sucedido *realme
 
 Las características de los mitos, de acuerdo con Eliade (1991), son:
 
-1. Constituye una historia de los actos de los seres sobre naturales.
+1. Constituye una historia de los actos de seres sobrenaturales.
 2. Esta historia se considera *verdadera* y *sagrada*.
 3. Siempre cuenta una creación y/o un origen.
 4. Al conocer el origen se pueden manipular las cosas.

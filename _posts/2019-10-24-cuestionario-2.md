@@ -5,7 +5,6 @@ date:   2019-10-24 22:12:16 -0600
 categories: Cuestionario
 tags: [exocerebro, física, Cosmos]
 permalink: /:title.html/
-author: Alberto R. León
 ---
 
 Con base en la lectura de *Antropología del cerebro* de Roger Bartra, responder:
