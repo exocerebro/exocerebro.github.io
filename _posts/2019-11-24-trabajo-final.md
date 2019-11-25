@@ -27,8 +27,29 @@ Para el presente trabajo haremos un breve estudio sobre la noción de mito como 
 
 Hemos elegido tres comunidades que se dedican a la autoproducción de alimentos y cultivos, y estas comunidades tienen distintas praxis en su producción. Estas comunidades son: a) académico/ciéntifica; b) religiosa/creyente; c) tradicional/originaria. Desarrollamos una serie de preguntas que tienen que ver sus modos de producción y prácticas, con estas preguntas buscamos entender cómo y qué tipo de exocerebro emplean en su vocación. Esperamos tres tipos de respuestas: 1) una inclinación científica y objetiva; 2) una concepción religiosa, y 3) una concepción ritual/totémica.
 
-Creemos que cualquiera de las tres visiones tomada por la muestra recae en mitos contemporáneos. Recordemos que un mito es la explicación de un hecho, el origen, por medio de una hazaña o una fuerza sobrenatural. Por ello, hemos tomado como ejemlos de mitos ontemporáneos a la ciencia (para el primer caso), dios (para el segundo grupo) y los rituales y creencias ancestrales (para el tercer caso). 
+Creemos que cualquiera de las tres visiones tomada por la muestra recae en mitos contemporáneos. Recordemos que un mito es la explicación de un hecho, el origen, por medio de una hazaña o una fuerza sobrenatural. Por ello, hemos tomado como ejemplos de mitos contemporáneos a la ciencia (para el primer caso), dios (para el segundo grupo) y los rituales y creencias ancestrales (para el tercer caso).
 
+Para Mircea Eliade (1991, p. 7), un mito "no habla de lo que ha sucedido *realmente*, de lo que se ha manifestado plenamente \[...\]. Los mitos revelan, pues, la actividad creadora y desvelan la sacralidad (o simplemente la 'sobrenaturalidad')". Una de las características principales del mito es su "vida". Que un mito viva quiere decir que continúa su crecimiento y propagación, permanece relevante ante una comunidad y aún funciona como esclarecedor de hechos.
+
+Las características de los mitos, de acuerdo con Eliade (1991), son:
+
+1. Constituye una historia de los actos de los seres sobre naturales.
+2. Esta historia se considera *verdadera* y *sagrada*.
+3. Siempre cuenta una creación y/o un origen.
+4. Al conocer el origen se pueden manipular las cosas.
+5. Se vive el mito, se rememora y se actualiza.
+
+Para el presente trabajo, consideramos como mito a la ciencia no por su fin de objetividad, sino por las mismas características que suelen tener otras comunidades respecto a creencias y ritos, es decir, por el fanatismo que pudiesen llegar a tener sus seguidores, así como sus métodos y prácticas.
+
+Dicho lo anterior, podría resultar evidente que el exocerebro como mito social es el mecanismo que busca explicar el "origen" de algo por medio de las prótesis culturales de determinados grupos sociales.
+
+## Metodológía
+
+## Resultados
+
+## Conclusiones
+
+## Bibliografía
 
 
 [^1]: Es importante entender el concepto que abarca Bartra sobre exocerebro, pues el autor toma este concepto en un carácter social-simbólico, formulado con base en la concepción biológica propuesta por otros autores (Bartra, pp. 24-25).
