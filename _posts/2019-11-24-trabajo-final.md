@@ -45,6 +45,25 @@ Dicho lo anterior, podría resultar evidente que el exocerebro como mito social 
 
 ## Metodológía
 
+
+Para el desarrollo de este trabajo e elaboró un cuestionario de 8 preguntas generales y abiertas. Se aplicó a tres grupos de cinco personas cada uno, dentro de estos se consideró las siguientes características generales:
+
+* relación con productos orgánicos (venta, producción o consumo)
+* relación con comunidades rurales
+* relación con creencias religiosas
+
+Para la catalogación de estas muestras solo se tomó en cuenta escolaridad y ocupación excluyendo datos como, sexo, nombre, edad o cualquier otro dato de índole personal.
+
+El grupo A está conformado por personas con un grado de estudios similar, dedicadas al desarrollo de actividades rulares ya sea como educadores ambientales, emprendedores, talleristas o comerciantes de productos agrícolas.
+
+Grupo B personas con orientaciones religiosas similares, católicos, cristianos, testigos de Jehová etc. Que además sean consumidores de productos orgánicos.
+
+Grupo C miembros del colectivo Chinampayolo, comerciantes dedicados a la producción y distribución de productos orgánicos dentro de una comunidad determinada.
+
+El objetivo de dichos cuestionarios es determinar si existen ritualizaciones, creencias, orientaciones o mitos culturales que influyan en su desarrollo diario.
+
+Para la evaluación de las respuestas de dichos cuestionarios únicamente se hizo un análisis cualitativo con las respuestas de los individuos seleccionados.
+
 ## Resultados
 
 ## Conclusiones
