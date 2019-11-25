@@ -25,6 +25,8 @@ Sin lugar a dudas, una de las mayores incognitas que acontecen en la sociedad, d
 
 Para el presente trabajo haremos un breve estudio sobre la noción de mito como exocerebro social, es decir, el mito como una prótesis cultural que busca compensar una cuestión externa, en muchos sentidos, al entendimiento de la humanidad, como es la relación del humano con su origen y la naturaleza, y cómo estos mitos operan en comunidades focalizadas.
 
+Hemos elegido tres comunidades que se dedican a la autoproducción de alimentos y cultivos, y estas comunidades tienen distintas praxis en su producción. Estas comunidades son: a) académico/ciéntifica; b) religiosa/creyente; c) tradicional/originaria. 
+
 
 
 [^1]: Es importante entender el concepto que abarca Bartra sobre exocerebro, pues el autor toma este concepto en un carácter social-simbólico, formulado con base en la concepción biológica propuesta por otros autores (Bartra, pp. 24-25).
