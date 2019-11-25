@@ -4,15 +4,10 @@ title: Acerca de
 permalink: /acercade/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Este blog tiene por objetivo mostrar un control de lectura de la clase de Cultura Científica y Humanística 1. Para la elaboración de los escritos y trabajos de campo se contó con :
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+* Claudia Arriaga Camarena (recopilación e interpretación de datos)
+* Antonio Rayón (Recopilación de datos)
+* Adriana Osornio (Recopilación de datos)}
+* Cuauhtémoc ** (conceptualizador y recopialación de datos)
+* Alberto R. León (redactor, administrador del blog)

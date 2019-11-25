@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Exocerebraico
+title: Cultura Científica y Humanística
 email: hola@mrleon.space
 description: >- # this means to ignore newlines until "baseurl:"
   Bitácora de conocimientos. Control de lectura y metodologías colaborativas para el aprendizaje y la enseñanza de la materia de Cultura Científica y Humanística.
