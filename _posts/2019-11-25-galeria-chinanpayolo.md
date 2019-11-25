@@ -8,7 +8,7 @@ permalink: /:title.html/
 author: Adriana Osornio
 ---
 
-{% include imagen.html url="/assets/images/índice.jpeg" description="Colectivo Chinampayolo, por Adriana Osornio" %}
+![](/assets/images/índice.jpeg)
 
 {% include imagen.html url="/assets/images/índice2.jpeg" description="Colectivo Chinampayolo, por Adriana Osornio" %}
 
