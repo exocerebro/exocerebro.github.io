@@ -8,6 +8,6 @@ Este blog tiene por objetivo mostrar un control de lectura de la clase de Cultur
 
 * Claudia Arriaga Camarena (recopilación e interpretación de datos)
 * Antonio Rayón (Recopilación de datos)
-* Adriana Osornio (Recopilación de datos)}
+* Adriana Osornio (Recopilación de datos)
 * Cuauhtémoc ** (conceptualizador y recopialación de datos)
 * Alberto R. León (redactor, administrador del blog)
