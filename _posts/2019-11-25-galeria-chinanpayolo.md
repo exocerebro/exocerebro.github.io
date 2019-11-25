@@ -8,22 +8,22 @@ permalink: /:title.html/
 author: Adriana Osornio
 ---
 
-{% include imagen.html url="/assets/images/indice.jpeg" description="Colectivo Chinampayolo, por Adriana Osornio" %}
+{% include imagen.html url="/assets/images/índice.jpeg" description="Colectivo Chinampayolo, por Adriana Osornio" %}
 
-{% include imagen.html url="/assets/images/indice2.jpeg" description="Colectivo Chinampayolo, por Adriana Osornio" %}
+{% include imagen.html url="/assets/images/índice2.jpeg" description="Colectivo Chinampayolo, por Adriana Osornio" %}
 
-{% include imagen.html url="/assets/images/indice3.jpeg" description="Colectivo Chinampayolo, por Adriana Osornio" %}
+{% include imagen.html url="/assets/images/índice3.jpeg" description="Colectivo Chinampayolo, por Adriana Osornio" %}
 
-{% include imagen.html url="/assets/images/indice4.jpeg" description="Colectivo Chinampayolo, por Adriana Osornio" %}
+{% include imagen.html url="/assets/images/índice4.jpeg" description="Colectivo Chinampayolo, por Adriana Osornio" %}
 
-{% include imagen.html url="/assets/images/indice5.jpeg" description="Colectivo Chinampayolo, por Adriana Osornio" %}
+{% include imagen.html url="/assets/images/índice5.jpeg" description="Colectivo Chinampayolo, por Adriana Osornio" %}
 
-{% include imagen.html url="/assets/images/indice6.jpeg" description="Colectivo Chinampayolo, por Adriana Osornio" %}
+{% include imagen.html url="/assets/images/índice6.jpeg" description="Colectivo Chinampayolo, por Adriana Osornio" %}
 
-{% include imagen.html url="/assets/images/indice7.jpeg" description="Colectivo Chinampayolo, por Adriana Osornio" %}
+{% include imagen.html url="/assets/images/índice7.jpeg" description="Colectivo Chinampayolo, por Adriana Osornio" %}
 
-{% include imagen.html url="/assets/images/indice8.jpeg" description="Colectivo Chinampayolo, por Adriana Osornio" %}
+{% include imagen.html url="/assets/images/índice8.jpeg" description="Colectivo Chinampayolo, por Adriana Osornio" %}
 
-{% include imagen.html url="/assets/images/indice9.jpeg" description="Colectivo Chinampayolo, por Adriana Osornio" %}
+{% include imagen.html url="/assets/images/índice9.jpeg" description="Colectivo Chinampayolo, por Adriana Osornio" %}
 
-{% include imagen.html url="/assets/images/indice10.jpeg" description="Colectivo Chinampayolo, por Adriana Osornio" %}
+{% include imagen.html url="/assets/images/índice10.jpeg" description="Colectivo Chinampayolo, por Adriana Osornio" %}
