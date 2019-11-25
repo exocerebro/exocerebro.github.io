@@ -25,7 +25,9 @@ Sin lugar a dudas, una de las mayores incognitas que acontecen en la sociedad, d
 
 Para el presente trabajo haremos un breve estudio sobre la noción de mito como exocerebro social, es decir, el mito como una prótesis cultural que busca compensar una cuestión externa, en muchos sentidos, al entendimiento de la humanidad, como es la relación del humano con su origen y la naturaleza, y cómo estos mitos operan en comunidades focalizadas.
 
-Hemos elegido tres comunidades que se dedican a la autoproducción de alimentos y cultivos, y estas comunidades tienen distintas praxis en su producción. Estas comunidades son: a) académico/ciéntifica; b) religiosa/creyente; c) tradicional/originaria. 
+Hemos elegido tres comunidades que se dedican a la autoproducción de alimentos y cultivos, y estas comunidades tienen distintas praxis en su producción. Estas comunidades son: a) académico/ciéntifica; b) religiosa/creyente; c) tradicional/originaria. Desarrollamos una serie de preguntas que tienen que ver sus modos de producción y prácticas, con estas preguntas buscamos entender cómo y qué tipo de exocerebro emplean en su vocación. Esperamos tres tipos de respuestas: 1) una inclinación científica y objetiva; 2) una concepción religiosa, y 3) una concepción ritual/totémica.
+
+Creemos que cualquiera de las tres visiones tomada por la muestra recae en mitos contemporáneos. Recordemos que un mito es la explicación de un hecho, el origen, por medio de una hazaña o una fuerza sobrenatural. Por ello, hemos tomado como ejemlos de mitos ontemporáneos a la ciencia (para el primer caso), dios (para el segundo grupo) y los rituales y creencias ancestrales (para el tercer caso). 
 
 
 
