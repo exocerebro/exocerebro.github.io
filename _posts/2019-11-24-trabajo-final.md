@@ -46,29 +46,62 @@ Dicho lo anterior, podría resultar evidente que el exocerebro como mito social 
 ## Metodológía
 
 
-Para el desarrollo de este trabajo e elaboró un cuestionario de 8 preguntas generales y abiertas. Se aplicó a tres grupos de cinco personas cada uno, dentro de estos se consideró las siguientes características generales:
+Para el desarrollo de este trabajo e elaboró un cuestionario de 8 preguntas generales y abiertas (véase anexo 1). Se aplicó a tres grupos de cinco personas cada uno, dentro de estos se consideraron las siguientes características generales:
 
 * relación con productos orgánicos (venta, producción o consumo)
 * relación con comunidades rurales
 * relación con creencias religiosas
 
-Para la catalogación de estas muestras solo se tomó en cuenta escolaridad y ocupación excluyendo datos como, sexo, nombre, edad o cualquier otro dato de índole personal.
+Para la catalogación de estas muestras solo se tomó en cuenta escolaridad y ocupación excluyendo datos como sexo, nombre, edad o cualquier otro dato de índole personal.
 
-El grupo A está conformado por personas con un grado de estudios similar, dedicadas al desarrollo de actividades rulares ya sea como educadores ambientales, emprendedores, talleristas o comerciantes de productos agrícolas.
+El grupo *A* está conformado por personas con un grado de estudios similar, dedicadas al desarrollo de actividades rulares ya sea como educadores ambientales, emprendedores, talleristas o comerciantes de productos agrícolas con visión académica y/o cientificista.
 
-Grupo B personas con orientaciones religiosas similares, católicos, cristianos, testigos de Jehová etc. Que además sean consumidores de productos orgánicos.
+El Grupo *B* está formado por personas con orientaciones religiosas similares, católicos, cristianos, testigos de Jehová, etc., quienes además sean consumidores/productores de productos orgánicos.
 
-Grupo C miembros del colectivo Chinampayolo, comerciantes dedicados a la producción y distribución de productos orgánicos dentro de una comunidad determinada.
+Grupo *C* está compuesto por una muestra focalizada con los miembros del colectivo Chinampayolo, comerciantes dedicados a la producción y distribución de productos orgánicos dentro de una comunidad determinada.
 
-El objetivo de dichos cuestionarios es determinar si existen ritualizaciones, creencias, orientaciones o mitos culturales que influyan en su desarrollo diario.
+El objetivo de dichos cuestionarios es determinar si existen ritualizaciones, creencias, orientaciones o mitos culturales que influyan en su práctica y relación diaria con productos orgánicos.
 
-Para la evaluación de las respuestas de dichos cuestionarios únicamente se hizo un análisis cualitativo con las respuestas de los individuos seleccionados.
+Por las limitantes de tiempo y cantidad de muestra, para la evaluación de las respuestas de dichos cuestionarios únicamente se hizo un análisis cualitativo con las respuestas de los individuos seleccionados.
 
 ## Resultados
 
-## Conclusiones
+Para el presente trabajo fueron evaluados 3 grupos de manera simultanea , dos de ellos tienen como máximo cinco personas cada uno (*A* y *B*), mientras que el tercero (*C*) es el más nutrido, con una participación de siete personas, obteniendo un total de 17 participantes, de los cuales 14 cuentan con estudios de nivel superior, uno con carrera técnica y dos con educación media superior.
+
+Las preguntas con mayor relevancia son la 2 y la 4, ambas cuestionan la percepción de la naturaleza y las creencias de los entrevistados, la 7 y la 8 cuestionan si poseen algún manual para sus procedimientos, estas ultimas con la finalidad de identificar si los participantes son capaces de reconocer la tradición oral o la práctica del conocimiento adquirido como un proceso. Las preguntas son: 2) *¿Crees en la existencia de una espiritualidad en torno a un ser vivo y su relación con la prosperidad de los cultivos?*; 4) *¿Cuál consideras que es el vínculo que tienen los seres humanos con la naturaleza?*; 7) *¿Cuál es el proceso que sigues para obtener tus productos?*; 8) *¿Tienes algún manual de práctica o procesos para producir tu actividad?*
+
+Por lo tanto, del total de personas entrevistadas se obtiene que las respuestas para la pregunta 2 son: cinco personas respondieron “No”, tres de ellas pertenecen al grupo *A*, uno al *B* y uno al *C*; nueve de los entrevistados dijeron que “Sí”, dos de ellos corresponden al grupo *A*, tres al *B* y cuatro al *C*; dos pertenecientes al grupo *A* y *B* dudaron en su respuesta, y finalmente un individuo del grupo *C* cree en una energía dinámica y constante.
+
+De las respuestas obtenidas de la pregunta 4, seis en total indican que somos parte de la naturaleza, cuatro pertenecen al grupo *C*, uno al *A* y uno al *B*; cuatro creen que tenemos un vínculo total, tres de ellos pertenecen al grupo *C* y uno al *A*; dos piensan que tenemos un vínculo estrecho con la naturaleza y ambas opiniones son emitidas por miembros del grupo *B*; dos más opinan que tenemos un equilibrio, uno es del grupo *A* y otro del *B*, por último dos dicen que estamos inmersos o que somos naturaleza, uno pertenece al grupo *A* y otro al *B*.
+
+## Discusión y conclusiones
+
+Aunque existe un notable sesgo de información podemos encontrar similitudes entre quienes consumen, producen y/o comercian productos orgánicos, todos concuerdan en que estamos inmersos en la naturaleza, que somos parte de ella o no somos entes separados, aunque algunos manifiestan que ven a la humanidad como algo superior. El grupo *B*, en su mayoría, cree que existe algo superior a ellos que los encamina para poder obtener productos de calidad, en contraste con el grupo *A*, que nos explican de forma más puntual su proceso de intervención o producción de estos productos finales, a grandes rasgos podemos notar que todos identifican una energía que se encuentra entrelazada o que guarda alguna interacción entre el ser humano y la naturaleza.
+
+¿Cuáles son los riesgos de poner un nombre en específico a esta energía que es identificada por todos? ¿podríamos llamarla dios? ¿Un espíritu o un ente mágico? La realidad es que todos tenemos un tejido de pensamiento al cual le designamos una explicación.
+
+La mayor parte de los participantes tienen estudios de licenciatura, e incluso dentro del grupo *B* existen personas con grado de maestría, lo cual obviamente no infiere sobre su espiritualidad o modo de trabajo. Sin embargo la mayoría de los participantes del grupo *B* y del grupo *C* son personas que mezclan su trabajo con su “fe”, a diferencia del grupo *A* donde encontramos una mayor resistencia a mezclar sus creencias con su trabajo, pues su papel está encaminado a la investigación, quiza el grupo *B* y *C* posee la tendencia a mezclar su “fe” con su trabajo por no ser de carácter científico, sino más bien personal, pues son proyectos de su propiedad y sin fines de investigación, o tal vez porque provienen de comunidades especificas en las cuales se desarrollan desde la infancia.
+
+Podemos decir entonces que el *exocerebro* de estos grupos de personas buscan entender la forma en la que se llevan acabo los procesos, esto es notable al punto de cuestionar si existe un manual de procedimientos y en su mayoría niegan tenerlo, aunque parece pasar desapercibido que lo han descrito de manera no formal, aquí podemos notar que aún cuando se niega la existencia de una ritualización, se confirma al describir sus procesos, pues al detallar cada uno de sus pasos en la producción nos encontramos con una manual no escrito, perteneciente al registro oral, y que muy probablemente fue transmitido por oralidad y conocimiento adquiridos y puestos en práctica, que son parte de las características enunciadas por Eliade como parte del mito. Además, cada uno de estos grupos integra a su práctica una estrecha relación con la naturaleza, una una difusión/comunicación de su conocimiento y está fundamentada en amplias prácticas culturales.
+
+Así pues, podemos concluir que todos convergen en que existe una energía, la cual explican desde sus saberes, ya sea que le llamen, “dios”,“espíritu del bosque” o “cadena trófica”, saben perfectamente que esta incide sobre su producción. Dicha energía la pueden entender  mediante el método científico o su “fe”, pero todos saben que existe, y que la pueden conocer como intercambio energético, vital o coósmico. Es en este punto donde podemos apreciar de primera mano la correlación *exocerebro*-*mito*, pues la praxis y la creencia en sus procesos y motivos encuentran una comunión y mayores puntos en común que diferencias.
 
 ## Bibliografía
+
+
+## Anexos
+
+### 1. Preguntas
+
+1. Menciona un hábito tradicional que pongas en práctica en tu labor.
+2. ¿Crees en la existencia de una espiritualidad en torno a un ser vivo y su relación con la prosperidad de los cultivos?
+3. ¿Existe alguna ritualización en la ejecución de tu labor?
+4. ¿Cuál consideras que es el vínculo que tienen los seres humanos con la naturaleza?
+5. ¿Consideras que lo tradicional ha perdido terreno ante la modernidad y por qué?
+6. ¿Crees que la forma como obtienes tus productos es amigable con el ambiente?
+7. ¿Cuál es el proceso que sigues para obtener tus productos?
+8. ¿Tienes algún manual de práctica o procesos para producir tu actividad? 
+
 
 
 [^1]: Es importante entender el concepto que abarca Bartra sobre exocerebro, pues el autor toma este concepto en un carácter social-simbólico, formulado con base en la concepción biológica propuesta por otros autores (Bartra, pp. 24-25).
