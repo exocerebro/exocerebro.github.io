@@ -100,8 +100,82 @@ Así pues, podemos concluir que todos convergen en que existe una energía, la c
 5. ¿Consideras que lo tradicional ha perdido terreno ante la modernidad y por qué?
 6. ¿Crees que la forma como obtienes tus productos es amigable con el ambiente?
 7. ¿Cuál es el proceso que sigues para obtener tus productos?
-8. ¿Tienes algún manual de práctica o procesos para producir tu actividad? 
+8. ¿Tienes algún manual de práctica o procesos para producir tu actividad?
 
+### Respuestas grupo *A*
 
+**Persona 1**
+
+1. Policultivo
+2. No
+3. No
+4. Vínculo total, no podemos ser sin ella.
+5. Sí, por enajenación cultural.
+6. Sí
+7. Siembra y cosecha directa, a veces propago por esquejes pero generalmente es por semilla, comprada o autogenerada, genero mi propia composta, casi no produzco residuos todo es reciclado, sistema de riego mixto entre temporal y artificial, asocio varias plantas, no uso fertilizante ni pesticida.
+8. No
+
+*Datos del entrevistado*:
+* Educador ambiental/licenciatura
+
+**Persona 2**
+
+1. No tengo algún hábito heredado de la tradición, por lo tanto no lo aplico en mis labores diarias
+2. Espiritualidad como tal no, pero sí en una relación de factores que permiten el buen desarrollo de poblaciones de organismos y los cultivos humanos
+3. Ritualización como tal no, pero uno termina desarrollando rutinas que se repiten en lo personal y las labores
+4. El vínculo más importante es el de equilibrio, el cual se puede medir a través de poblaciones que sirven de indicadores del funcionamiento ecológico
+5. Definitivamente la tradición ha perdido terreno ante la modernidad debido a la información externa que tergiversa las costumbres locales o terminan remplazándolas
+6. Soy consciente de que mis productos no son amigables con el medio ambiente, por un lado no hay manera de remplazar la forma de obtenerlos y por otro lado las alternativas son demasiado caras como para hacer redituable su remplazo
+7. Son diversos, desde los procesos digitales que implican uso de energía. Hasta los procesos de maquila que implican otros recursos que generan residuos contaminantes. Ademas del uso de embalajes plásticos y otros que terminan siendo una fuente de contaminación
+8. Aun no desarrollamos el manual pero sí está contemplado, ya que cada proceso debe ser repetible para cuidar los resultados y no cambiar la calidad.
+
+*Datos del entrevistado*:
+* Ocupación: Comerciante.
+* Grado de estudios : Licenciatura.
+
+**Persona 3**
+
+1. Observar el medio en el que se desarrollan las problemáticas para detectar cuáles son los factores que influyen en las mismas
+2. No, creo en las interacciones de los seres vivos con su medio y con otros sistemas similares
+3. Ninguna
+4. El ser humano se desenvuelve en un ambiente conformado por una infinidad de seres vivos parecidos a él, quienes buscan, al igual que nosotros, subsistir; en este sentido es importante tomar en cuenta que cada una de nuestras acciones tiene consecuencias sobre los demás entes vivientes. Por lo que creo que como tal no existe un vínculo, pues el humano y la naturaleza no son entidades separadas, estamos inmersos en ella.
+5. Sí, el factor primordial puede asociarse a la enorme cantidad de fuentes de información con las que contamos en la actualidad, considero que esta situación produce nuevas formas de pensar que se asocian con el "progreso", término que tiene diferentes connotaciones, dependiendo del medio en que se desenvuelve cada persona
+6. Sí
+7. Más bien son servicios y lo que se busca es identificar problemas y factores asociados para proponer actividades que informen a la población de los problemas que tienen y posteriormente que ellos mismos generen estrategias para resolverlos
+8. No
+
+*Datos del entrevistado*:
+* Ocupación: Proyectista en una AC y profesor a nivel licenciatura
+* Último grado de estudios: licenciaturas Biología y Veterianaria.
+
+**Persona 4**
+
+1. Pensar a profundidad, analizar a detalle todas las posibilidades, antes de decidir o hacer algo
+2. Claro que sí, hay una espiritualidad que rige la vida, el ser humano solo conoce una parte de un gran todo
+3. Fumar cannabis, desde mirar la planta, quitar el exceso, tocarla y formar un cigarrillo. En lo personal no tengo nada de qué avergonzarme, nunca lo he hecho ni en la escuela, en el trabajo ni en la vida personal, de hecho, defiendo la cannabis porque considero que a mí me potencializa al análisis, me ayuda a tomar decisiones sin el estómago
+4. La energía, a pesar de desconocer siento que ese sentimiento de cuidado de la naturaleza tiene que ver con la energía
+5. No lo creo personalmente, considero que existe la mezcla perfecta entre ambos, hay cosas que pierden esencia si son cargadas a lo moderno y cosas que no funcionan siendo totalmente tradicional
+6. Si, he pasado 10 años buscando la menara que todo sea amigable con el ambiente, de hecho sin querer desarrollamos 2 métodos nuevos, sin embargo uno es contaminante y poco eficiente, desde ahora hemos utilizado el más amigable
+7. Usamos el metabolismo de un hongo degradador de la madera que con sus enzimas mineralizan las sustancias toxicas de las colillas y degradan 25% la colilla, eliminando el acetato de celulosa y obteniendo una pulpa de celulosa de baja mediana calidad que no se degrada en 10 años como las colillas, sino en 3 o 4 meses. En el proceso solo se utiliza 1ml de agua residual tratada por cada colillas a tratar, se incuba como si fuese una bacteria y a los 25 o 30 días se obtienen las colillas tratadas
+8. Contamos un Visual Job Plan y el detalle que te proporciona un escrito de patente, pero es confidencial.
+
+*Datos del entrevistado*
+* Ocupación: Emprendedor
+* Lic. en Biología.
+
+**Persona 5**
+
+1. Se realizan las siembras de acuerdo a las fases lunares, ya que influye en el proceso de desarrollo de las plantas. Cabe mencionar que los cultivos que se realizan son protegidos y en maceta. Por lo que el uso del suelo de la región no se utiliza. Y no hay muchas actividades de la siembra ancestral en los cultivos
+2. La presencia de los elementos como manifestaciones de energía y su complementariedad en la siembra, es decir, los elementos tienen incidencia energética en las plantas y por lo tanto se debe cuidar la siembra que se realiza
+3. Antes de comenzar la siembra se realiza una celebración para encomendar la producción y salga a buen término.
+4. Somos parte de ella, no podemos ser externos. Todas las acciones que hagamos repercuten en ella, se cree que si cuidas y proteges la tierra, ella te cuida también
+5. La perdió a principios de los 60's, con la revolución industrial, pero actualmente ha crecido el interés por recuperar estas técnicas, ya que son eficientes y más amigables con el medio ambiente
+6. No es acorde al 100% con la tradición ancestral, pero todos los insumos se re usan, ya que las plantas se comercializan a raíz desnuda. Por lo que las macetas y sustratos tienen duración hasta 10 años o más reutilizándose. Los elementos de control de plagas son orgánicos, algunos con certificación y otros elaborados en sitio. Se cultivan plantas mexicanas suculentas con todos los permisos y registros. El objetivo es revalorizarlas y sacar ventaja en naturación, por su bajo consumo de agua
+7. Se adquieren los ejemplares vegetales de otro productor de la red, se realiza la siembra conforme las fases lunares, se realizan monitoreos y aplicaciones de control de plagas y nutrición de acuerdo a las observaciones del cultivo y el clima, se bitacorean y llevan registros de crecimiento y reproducción de las plantas. Se llevan inventarios
+8. Sí, se llevan bitácoras de producción e inventarios, conforme a la capacitación que la plataforma realiza
+
+*Datos del entrevistado*
+* Información enviada por: Directora de Investigación y Desarrollo en Cosechando Natural, Licenciatura.
+* Respuestas dadas por: Dirigente de mercaderes en Ecatepec, Productor en el Valle del Mezquital de origen hñahñu. Licenciado en Matemáticas.
 
 [^1]: Es importante entender el concepto que abarca Bartra sobre exocerebro, pues el autor toma este concepto en un carácter social-simbólico, formulado con base en la concepción biológica propuesta por otros autores (Bartra, pp. 24-25).
